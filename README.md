@@ -1,4 +1,4 @@
-# Design Tokens
+# Design Tokens POC
 
 This Tokens are originated in Figma and exported as code into this repository using the 'FigmaTokens' plugin. 
 
@@ -6,11 +6,11 @@ This Tokens are originated in Figma and exported as code into this repository us
 
 Install dependency
 ```
-npm i @tokenizable/tokens
+npm i @baysidepoc/tokens
 ```
 Use inside a component:
 ```
-import { colors } from "@tokenizable/tokens";
+import { colors } from "@baysidepoc/tokens";
 ```
 ```
 style={{backgroundColor:`${colors.red100}`}}
@@ -26,9 +26,9 @@ style={{backgroundColor:`${colors.red100}`}}
 Make changes in Figma using the Figma Tokens Plugin, be sure this repo is connected in settings section.
 
 ```
-Name: Tokenizable Tokens
+Name: baysidepoc Tokens
 Personal Access Token: <personal token>
-Repository: tokenizable/tokens
+Repository: baysidepoc/tokens
 Default Branch: main
 FilePath: figma/figmaTokens.json
 
@@ -75,7 +75,7 @@ npm publish --access public
 
 Clone code from repo:
 ```
-git clone git@github.com:tokenizable/tokens.git
+git clone git@github.com:baysidepoc/tokens.git
 ```
 
 

@@ -1,5 +1,5 @@
 {
-  "name": "@tokenizable/tokens",
+  "name": "@baysidepoc/tokens",
   "version": "1.0.0",
   "description": "Design Tokens",
   "main": "tokens/Figma.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tokenizable/tokens.git"
+    "url": "git+https://github.com/baysidepoc/tokens.git"
   },
   "keywords": [
     "Design",
@@ -23,7 +23,7 @@
   "author": "GCF",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tokenizable/tokens/issues"
+    "url": "https://github.com/baysidepoc/tokens/issues"
   },
-  "homepage": "https://github.com/tokenizable/tokens#readme"
+  "homepage": "https://github.com/baysidepoc/tokens#readme"
 }
